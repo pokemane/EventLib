@@ -1,0 +1,11 @@
+0.1.0 Alpha -- 12 September 2013
+	-Initial Project Creation
+	
+	ADDED:
+		-Event Creation
+		-Event Generation
+		-Accessors
+		
+	NOTES:
+		-Events can be created which contain Event Classes that inherit from the parent Event class (Event creation and generation uses Dynamic Distpatch).  This will most likely have to be tweaked due to not knowing the exact use cases for this system
+		-Needs a Dynamic Event Terminal on the event structure
